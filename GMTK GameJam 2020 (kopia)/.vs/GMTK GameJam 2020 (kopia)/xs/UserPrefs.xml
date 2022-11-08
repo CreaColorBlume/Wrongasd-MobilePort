@@ -5,7 +5,7 @@
       <File FileName="Assets/Scripts/LevelTextScript.cs" />
       <File FileName="Assets/Scripts/WasdTextScript.cs" />
       <File FileName="Assets/Scripts/PlayerMovementScript.cs" Line="37" Column="17" />
-      <File FileName="Assets/Scripts/Angels/Demo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Angels/Demo.cs" Line="21" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
