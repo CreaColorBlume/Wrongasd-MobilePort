@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{265E8511-9CAE-E872-FEF5-3F6F7926FB46}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Angels/Demo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WasdTextScript.cs">
     <Files>
       <File FileName="Assets/Scripts/BlinkScript.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/LevelTextScript.cs" />
-      <File FileName="Assets/Scripts/WasdTextScript.cs" />
+      <File FileName="Assets/Scripts/WasdTextScript.cs" Line="22" Column="44" />
       <File FileName="Assets/Scripts/PlayerMovementScript.cs" Line="37" Column="17" />
       <File FileName="Assets/Scripts/Angels/Demo.cs" Line="21" Column="6" />
     </Files>
@@ -11,9 +11,10 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GMTK GameJam 2020 (kopia)" expanded="True">
-            <Node name="Assets" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
                 <Node name="Angels" expanded="True" />
+                <Node name="WasdTextScript.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -23,7 +24,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="96d3435d-79f7-4756-8c9a-360936d6c2ef" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a38bc599-ff75-410c-94fa-1c25178ea933" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
